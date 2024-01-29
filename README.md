@@ -31,7 +31,7 @@ Welcome to my space on GitHub! I'm Pranay, a B.Tech graduate from NIIT Universit
 ### 📫 Reach Out
 - LinkedIn: [pranaymokida](https://linkedin.com/in/pranaymokida)
 - Portfolio: [pranaymokida.xyz](https://pranaymokida.xyz)
-- Email: [pranay.esse@gmail.com](mailto:pranay.esse@gmail.com)
+- Email: [pranay.mokida@protonmail.com](mailto:pranay.mokida@protonmail.com)
 
 ### ⚙️ GitHub Stats
 ![Pranay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranayesse&show_icons=true)
